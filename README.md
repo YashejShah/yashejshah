@@ -18,4 +18,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YashejShah&icon=0&color=0)](https://visitcount.itsvg.in)
-[<img src="https://[{DOMAIN_OF_YOUR_VERCEL_APP}](https://readme-spotify-status-git-master-yashejshah.vercel.app/)/api/run-spotify-status" alt="Your alt what" width="350" />]https://open.spotify.com/user/31qihgief5udelu3fed54kjgnhq4
+<img src="https://readme-spotify-status-zeta.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="400" />
